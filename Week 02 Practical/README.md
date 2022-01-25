@@ -2,9 +2,9 @@
 Introduction to Machine Learning in Python.
 
 ## Overview
-The [previous practical](https://github.com/KF5012-AI2020/Practical1) covered: an introduction to Python, Jupyter Notebooks, Numpy and Arrays, and how to work with simple data.
+The [previous practical](https://github.com/Hongleili/KF5012-AI-Stream/tree/main/Week%2001%20Practical) covered: an introduction to Python, Jupyter Notebooks, Numpy and Arrays, and how to work with simple data.
 
-In [this practical](https://github.com/KF5012-AI2020/Practical2) you will explore, analyse, and process real world datasets and apply some simple machine learning methods.
+In [this practical](https://github.com/Hongleili/KF5012-AI-Stream/tree/main/Week%2002%20Practical) you will explore, analyse, and process real world datasets and apply some simple machine learning methods.
 
 ## What is in this Practical Session
 1. Data Analysis

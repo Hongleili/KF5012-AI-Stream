@@ -16,4 +16,4 @@ It is suggested to read the notebooks in the above order. You can also try the E
 ## Set up your notebook
 Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2021/Practical3/HEAD) to get started.
 
-If you have any questions, my email is matthew.higgs@northumbria.ac.uk
+If you have any questions, my email is honglei.li@northumbria.ac.uk

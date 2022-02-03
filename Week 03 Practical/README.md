@@ -2,7 +2,7 @@
 Feature Engineering & Model Selection
 
 ## Overview
-In [this practical](https://github.com/KF5012-AI2021/Practical3) you will learn how to engineer, extract, and select features from different types of data; be introduced to classification models; and perform model selection over parameters of your model. Leading to machine algorithms that can perform well on a wide range of data types.
+In [this practical](https://github.com/Hongleili/KF5012-AI-Stream/tree/main/Week%2003%20Practical) you will learn how to engineer, extract, and select features from different types of data; be introduced to classification models; and perform model selection over parameters of your model. Leading to machine algorithms that can perform well on a wide range of data types.
 
 ## What is in this Practical Session
 1. Polynomial Features

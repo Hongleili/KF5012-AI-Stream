@@ -19,4 +19,4 @@ Open up this repository in [binder](https://gesis.mybinder.org/binder/v2/gh/KF50
 If you want to run this locally, download files from this repository and extract them. Follow instructions from [here](https://youtu.be/9JH0LXGBRV8) to create an Anaconda virtual environment. After activating this environment make sure you install 'numpy', 'pandas', 'scikit-learn', and 'matplotlib' (as required by environment.yml) as well as jupyter notebook. Remember, you need to install these within the environment so make sure you have run 'conda activate environment_name'. You should then be able to open the notebooks on your computer.
 
 
-If you have any questions, my email is daniel.organisciak@northumbria.ac.uk
+If you have any questions, my email is honglei.li@northumbria.ac.uk

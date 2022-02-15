@@ -2,7 +2,7 @@
 Text Processing Pipelines
 
 ## Overview
-In [this practical](https://github.com/Hongleili/KF5012-AI-Stream/tree/main/Week%2004%20Practical) you will be introduced to text data and the development of text processing pipelines. You will build a text classifer.
+In [this practical](https://mybinder.org/v2/gh/KF5012-AI2021/Practical4/HEAD) you will be introduced to text data and the development of text processing pipelines. You will build a text classifer.
 
 ## What is in this Practical Session
 1. Text Features

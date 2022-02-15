@@ -2,7 +2,7 @@
 Neural Networks
 
 ## Overview
-In [this practical](https://github.com/KF5012-AI2020/Practical5) you will use jupyter notebooks within Google Colab and learn how to use GPUs for deep learning.
+In [this practical](https://github.com/Hongleili/KF5012-AI-Stream/tree/main/Week%2005%20Practical) you will use jupyter notebooks within Google Colab and learn how to use GPUs for deep learning.
 
 This practical session explores how you can use neural networks. First you will examine how neural networks can be applied to tabular data, then you will explore convolutional neural networks for image classification.
 

@@ -13,7 +13,7 @@ It is suggested to read the notebooks in the above order. You can also try the E
 
 ## Set up your notebook
 ### Binder
-Open up this repository in [binder](https://gesis.mybinder.org/binder/v2/gh/KF5012-AI2021/Practical4/08902dc48eaebcadd0f40afa3fa57a46d7cb4128) to get started.
+Open up this repository in [binder](https://hub.gke2.mybinder.org/user/hongleili-kf5012-ai-stream-wbkl1oxp/lab/workspaces/auto-t/tree/Week%2004%20Practical) to get started.
 
 ### Run Locally
 If you want to run this locally, download files from this repository and extract them. Follow instructions from [here](https://youtu.be/9JH0LXGBRV8) to create an Anaconda virtual environment. After activating this environment make sure you install 'numpy', 'pandas', 'scikit-learn', and 'matplotlib' (as required by environment.yml) as well as jupyter notebook. Remember, you need to install these within the environment so make sure you have run 'conda activate environment_name'. You should then be able to open the notebooks on your computer.

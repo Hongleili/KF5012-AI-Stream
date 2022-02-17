@@ -16,6 +16,6 @@ In [this practical](https://github.com/Hongleili/KF5012-AI-Stream/tree/main/Week
 It is suggested to read the notebooks in the above order. You can also try the Exercises while you read through the notebooks
 
 ## Set up your notebook
-Open up this repository in [binder](https://mybinder.org/v2/gh/KF5012-AI2021/Practical2/HEAD) to get started.
+Open up this repository in [binder](https://github.com/Hongleili/KF5012-AI-Stream), click Week 02 Practical to get started.
 
 If you have any questions, my email is honglei.li@northumbria.ac.uk

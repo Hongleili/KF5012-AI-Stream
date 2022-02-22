@@ -1,4 +1,4 @@
-# Practical5
+# Week 05 Practical
 Neural Networks
 
 ## Overview

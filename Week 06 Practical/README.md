@@ -1,10 +1,10 @@
-# Practical6 
+# Week 06 Practical
 
 
 ## Google Colab
 In [this practical](https://github.com/Hongleili/KF5012-AI-Stream/tree/main/Week%2006%20Practical) we will focus on using GPUs for deep learning. We will also look at python classes which you may not yet have seen. Finally we will see how you can use an LSTM (long short term memory for time series prediction). 
 
-Open up [GoogleColab](https://colab.research.google.com/) and import the notebooks in this repository to get started. You can do this by clicking File -> Open Notebook -> Github and search for hongleili, or click the following links directly.
+Open up [GoogleColab](https://colab.research.google.com/) and import the notebooks in this repository to get started. You can do this by clicking File -> Open Notebook -> Github and search for hongleili, and find the repository name Hongleili/KF5012-AI-Stream and found the files one by one,  or click the following links directly.
 
 ## What is in this Practical Session
 1. [Deep Models and Transfer Learning](https://colab.research.google.com/github/Hongleili/KF5012-AI-Stream/blob/main/Week%2006%20Practical/Deep%20Models%20and%20Transfer%20Learning.ipynb)

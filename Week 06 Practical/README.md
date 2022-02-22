@@ -14,4 +14,4 @@ Open up [GoogleColab](https://colab.research.google.com/) and import the noteboo
 
 It is suggested to read the notebooks in the above order. Models from notebooks 1 and 2 will take some time to train, so you can have a look at notebooks 3 and 4 while you wait.
 
-If you have any questions, my email is daniel.organisciak@northumbria.ac.uk
+If you have any questions, my email is honglei.li@northumbria.ac.uk

@@ -2,7 +2,7 @@
 Getting Started with Python Notebooks
 
 ## Set up your notebook 
-Open up this repository in [binder](https://github.com/Hongleili/KF5012-AI-Stream), click Week 01 Practical to get started.
+Open up this repository in [binder](https://mybinder.org/v2/gh/Hongleili/KF5012-AI-Stream/HEAD), click Week 01 Practical to get started.
 
 ## What is in this Practical Session
 1. Introduction to Jupyter Notebooks
